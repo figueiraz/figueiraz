@@ -1,5 +1,5 @@
 
-### Bem-vindo(a)! Eu sou o Gabriel, o Figueira 🤙
+### Bem-vindo(a)! Eu sou o Gabriel 🤙
 
 ## 👤 Sobre mim
 Estudante de Desenvolvimento Web e aluno no Instituto da Oportunidade Social
