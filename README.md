@@ -2,7 +2,7 @@
 ### Bem-vindo(a)! Eu sou o Gabriel 🤙
 
 ## 👤 Sobre mim
-Desenvolvedor Web formado no Instituto da Oportunidade Social
+Desenvolvedor formado no Instituto da Oportunidade Social e cursando Análise e Desenvolvimento de Sistemas.
 <br> Amante do Design e seus processos criativos!
 
 ![Figueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=figueiraz&show_icons=true&theme=radical)
