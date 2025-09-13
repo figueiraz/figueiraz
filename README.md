@@ -2,8 +2,8 @@
 ### Bem-vindo(a)! Eu sou o Gabriel 🤙
 
 ## 👤 Sobre mim
-Desenvolvedor formado no Instituto da Oportunidade Social e cursando Análise e Desenvolvimento de Sistemas.
-<br> Amante do Design e seus processos criativos!
+Desenvolvedor Full Satck formado no Instituto da Oportunidade Social e cursando Análise e Desenvolvimento de Sistemas.
+<br> Amante do Design e seus processos criativos! Atualmente entrando no mundo do Desenvolvimento Mobile 📱
 
 ![Figueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=figueiraz&show_icons=true&theme=radical)
 
@@ -26,6 +26,8 @@ Desenvolvedor formado no Instituto da Oportunidade Social e cursando Análise e 
 ## 📗 Learning
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
 
