@@ -1,5 +1,5 @@
 
-### Bem-vindo(a)! Eu sou o Gabriel 🤙
+### Bem-vindo(a)!
 
 ## 👤 Sobre mim
 Desenvolvedor Full Stack formado no Instituto da Oportunidade Social e cursando Análise e Desenvolvimento de Sistemas.
